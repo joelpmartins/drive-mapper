@@ -7,4 +7,4 @@ Aplicação para mapeamento de unidades para Windows em Windows Application, par
 #define ADRESS_FOLDER_2 "insira aqui o endereço"
 ```
 
-Esse projeto foi criado no ambiente de desenvolvimento DevC++.
+Esse projeto foi criado no ambiente de desenvolvimento Dev-C++.
